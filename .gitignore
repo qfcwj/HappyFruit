@@ -1,0 +1,12 @@
+# 忽略虚拟环境
+.venv/
+venv/
+__pycache__/
+
+# 忽略IDE配置
+.vscode/
+.idea/
+
+# 忽略本地数据
+data/*.jsonl
+*.log
